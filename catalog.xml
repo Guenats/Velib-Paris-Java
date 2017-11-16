@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Guena/Desktop/EPSI%20I4/Web%20service/GoogleVelib/../../../../Downloads/station.xsd" uri="xml-resources/jaxb/Station/station.xsd"/>
+    <system systemId="file:/C:/Users/Guena/Desktop/EPSI%20I4/Web%20service/GoogleVelib/../../../../Downloads/636462652553687891_carto.xml/636462652553687891_carto.xml.xsd" uri="xml-resources/jaxb/CartoVelo/636462652553687891_carto.xml.xsd"/>
+    <system systemId="file:/C:/Users/Guena/Desktop/EPSI%20I4/Web%20service/GoogleVelib/../../../../Documents/station_velo.xsd" uri="xml-resources/jaxb/Station_Velo/station_velo.xsd"/>
+</catalog>
